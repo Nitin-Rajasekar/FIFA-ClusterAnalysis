@@ -2,7 +2,7 @@
 
 
 
-The top 50 (rating wise) footballers are chosen for the analysis tokeep the insights more focussed.
+The top 50 (rating wise) footballers are chosen for the analysis to keep the insights more focussed.
 
 On running our Single-Linkage clustering algorithm with a reasonable threshold, we obtain the following 7 clusters.
 
@@ -15,7 +15,7 @@ The players in Cluster number 2 are all centre-backs, with the exception of Serg
 ![image2](images/image2.png)
 
 
-This is explained by the above. When we graph the players with respect to
+This is explained by the above, when we graph the players with respect to
 the factor most attributed to defenders, the standing tackle. Casemiro and
 Busquets are the only midfielders with a standing tackle value among the
 defenders, and are thus placed in Cluster 2.
